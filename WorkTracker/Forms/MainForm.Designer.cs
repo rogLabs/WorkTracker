@@ -1,0 +1,1 @@
+// Content of MainForm.Designer.cs file
